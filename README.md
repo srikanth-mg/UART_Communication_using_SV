@@ -1,6 +1,6 @@
 # UART System Verilog Design
 
-## ** Overview**
+## Overview
 This project implements a UART (Universal Asynchronous Receiver/Transmitter) communication protocol in System Verilog. It includes a configurable transmitter and receiver module, verified through testbench simulation in Xilinx Vivado.
 
 ## **Key Features**
