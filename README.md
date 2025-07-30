@@ -24,5 +24,5 @@ This project implements a UART (Universal Asynchronous Receiver/Transmitter) com
 - `uart_top.v` – Top-level module connecting TX and RX
 - `uarttx.v` – UART Transmitter
 - `uartrx.v` – UART Receiver
-- `uart_tb.v` – Testbench for simulation
+- `tb_uart_top.v` – Testbench for simulation
 - `README.md` – This documentation
