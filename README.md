@@ -10,15 +10,11 @@ This project implements a UART (Universal Asynchronous Receiver/Transmitter) com
 - Synthesizable and FPGA testable
 - Functional verification using testbench
 
----
-
 ## **Technologies Used**
 - *Verilog HDL*
 - *Xilinx Vivado*
 - *Simulation & Timing Analysis*
 - *Testbench Design*
-
----
 
 ## **Files Included**
 - `uart_top.v` – Top-level module connecting TX and RX
@@ -26,3 +22,7 @@ This project implements a UART (Universal Asynchronous Receiver/Transmitter) com
 - `uartrx.v` – UART Receiver
 - `tb_uart_top.v` – Testbench for simulation
 - `README.md` – This documentation
+
+## Author
+**Srikanth Muthuvel Ganthimathi**  
+🔗 [LinkedIn](https://www.linkedin.com/in/srikanth9503/)
